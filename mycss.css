@@ -1,39 +1,39 @@
-body{
+body {
    background-color: initial;
 }
 
-#LucieS{
-   background-color:initial;
+#LucieS {
+   background-color: initial;
+   font-family: initial;
+   color: darkred;
+
+}
+
+#KaterinaO {
+   background-color: initial;
+   font-family: initial;
+   color: initial;
+
+}
+
+#PetraS {
+   background-color: orange;
    font-family:initial;
-   color:initial;
-   
+   color: brown;
+
 }
 
-#KaterinaO{
+#TatanaK {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
+
 }
 
-#PetraS{
+#KarinP {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
-}
+   color: initial;
 
-#TatanaK{
-   background-color: initial;
-   font-family: initial;
-   color:initial;
-   
-}
-
-#KarinP{
-   background-color: initial;
-   font-family: initial;
-   color:initial;
-   
 
 }
