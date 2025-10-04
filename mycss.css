@@ -1,26 +1,19 @@
-body{
-   background-color: initial;
+body {
+   background-color: grey;
 }
 
-#LucieS{
-   background-color:initial;
-   font-family:initial;
-   color:initial;
-   
-}
-
-#KaterinaO{
+#LucieS {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: darkred;
+
 }
 
-#PetraS{
-   background-color: initial;
+#KaterinaO {
+   background-color: pink;
    font-family: initial;
-   color:initial;
-   
+   color:purple;
+
 }
 
 #TatanaK{
@@ -28,12 +21,24 @@ body{
    font-family: 'Segoe UI';
    color:purple;
    
+#PetraS {
+   background-color: orange;
+   font-family:initial;
+   color: brown;
+
 }
 
-#KarinP{
+#TatanaK {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
+
+}
+
+#KarinP {
+   background-color: silver;
+   font-family: initial;
+   color: initial;
+
 
 }
